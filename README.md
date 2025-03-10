@@ -1,3 +1,3 @@
 # demo Repository
 
-new demo repository
+New demo repository
